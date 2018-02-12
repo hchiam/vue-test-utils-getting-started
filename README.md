@@ -3,9 +3,18 @@
 ## Setup
 
 ``` bash
+git clone https://github.com/hchiam/vue-test-utils-getting-started.git
+cd vue-test-utils-getting-started
 npm install
+```
+
+## Test
+
+``` bash
+cd vue-test-utils-getting-started
 npm test
 ```
+Note to self: Jest uses `npm` command, Tape uses `node` command.
 
 ## Resources
 
