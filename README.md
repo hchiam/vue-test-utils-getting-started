@@ -1,6 +1,6 @@
 # Getting started with `vue-test-utils`
 
-Vue TDD: vue-test-utils + Jest: test a basic counter.js template
+> Example project with a basic counter.js file, using vue-test-utils and Jest to run unit tests.
 
 ## Setup
 
