@@ -14,3 +14,15 @@ Note to self: Jest uses `npm` command, Tape uses `node` command.
 
 - [vue-test-utils docs](https://vue-test-utils.vuejs.org)
 - [vue-test-utils repo](https://github.com/vuejs/vue-test-utils)
+
+## More Advanced Examples With .vue Files and Components:
+
+### With Jest
+
+https://github.com/vuejs/vue-test-utils-jest-example
+
+### With Tape
+
+(but use `npm test`)
+
+https://github.com/hchiam/tape-vue-example
