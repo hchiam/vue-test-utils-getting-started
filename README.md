@@ -19,7 +19,7 @@ Note to self: Jest uses `npm` command, Tape uses `node` command.
 
 ### With Jest
 
-https://github.com/vuejs/vue-test-utils-jest-example
+https://github.com/hchiam/vue-test-utils-jest-example
 
 ### With Tape
 
