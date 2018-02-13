@@ -1,5 +1,7 @@
 # Getting started with `vue-test-utils`
 
+Vue TDD: vue-test-utils + Jest: test a basic counter.js template
+
 ## Setup
 
 ``` bash
